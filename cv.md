@@ -1,2 +1,2 @@
-#Fediarova Anastasiia#
-##frontend developer##
+#Fediarova Anastasiia
+##frontend developer
